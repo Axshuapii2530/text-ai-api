@@ -1,0 +1,13 @@
+{
+  "name": "text-ai-api",
+  "version": "1.0.0",
+  "description": "Simple Pollinations text AI wrapper for chatbots",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/generate.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
